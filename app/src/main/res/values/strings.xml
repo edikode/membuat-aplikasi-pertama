@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Festival Banyuwangi</string>
+
+    <string name="judul">Nama Festival</string>
+    <string name="location">Lokasi Festival</string>
+    <string name="jadwal">Minggu, 23 May 2021</string>
+
+    <!--  About profile  -->
+    <string name="name">Name</string>
+    <string name="name_result">Edi Siswanto</string>
+    <string name="profession">Profession</string>
+    <string name="profession_result">Android Developer - Dinas Pariwisata Banyuwangi</string>
+    <string name="contact">Contact</string>
+    <string name="contact_result">est23.edi@gmail.com</string>
+
+
+</resources>
